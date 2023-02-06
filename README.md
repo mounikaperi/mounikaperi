@@ -19,11 +19,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [this, call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; and Function Currying in JavaScript](https://saimounikaperi.hashnode.dev/this-call-apply-bind-and-function-currying-in-javascript)
  - 🚀 [A Practical Guide to Array and Object Destructuring](https://saimounikaperi.hashnode.dev/a-practical-guide-to-array-and-object-destructuring)
- - 🚀 [Simplify Your JavaScript with Arrays](https://saimounikaperi.hashnode.dev/simplify-your-javascript-with-arrays)
- - 💫 [ALL ABOUT DOM- DOCUMENT OBJECT MODEL in JAVASCRIPT](https://saimounikaperi.hashnode.dev/all-about-dom-document-object-model-in-javascript)
- - 🚀 [REST vs SPREAD OPERATORS IN JAVASCRIPT](https://saimounikaperi.hashnode.dev/rest-vs-spread-operators-in-javascript)
- - 🚀 [Git and GitHub](https://saimounikaperi.hashnode.dev/git-and-github)<!-- BLOGPOSTS:END -->
+ - 💫 [Simplify Your JavaScript with Arrays](https://saimounikaperi.hashnode.dev/simplify-your-javascript-with-arrays)
+ - 🚀 [ALL ABOUT DOM- DOCUMENT OBJECT MODEL in JAVASCRIPT](https://saimounikaperi.hashnode.dev/all-about-dom-document-object-model-in-javascript)
+ - 🚀 [REST vs SPREAD OPERATORS IN JAVASCRIPT](https://saimounikaperi.hashnode.dev/rest-vs-spread-operators-in-javascript)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
