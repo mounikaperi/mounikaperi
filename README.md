@@ -19,11 +19,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 🚀 [Object Oriented Programming in JavaScript](https://saimounikaperi.hashnode.dev/object-oriented-programming-in-javascript)
  - 🚀 [Asynchronous Javascript](https://saimounikaperi.hashnode.dev/asynchronous-javascript)
- - 🚀 [Closures In JavaScript](https://saimounikaperi.hashnode.dev/closures-in-javascript)
- - 💫 [Events in JavaScript](https://saimounikaperi.hashnode.dev/events-in-javascript)
- - 🚀 [Deep Dive into Objects in JavaScript](https://saimounikaperi.hashnode.dev/deep-dive-into-objects-in-javascript)
- - 🚀 [this, call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; and Function Currying in JavaScript](https://saimounikaperi.hashnode.dev/this-call-apply-bind-and-function-currying-in-javascript)<!-- BLOGPOSTS:END -->
+ - 💫 [Closures In JavaScript](https://saimounikaperi.hashnode.dev/closures-in-javascript)
+ - 🚀 [Events in JavaScript](https://saimounikaperi.hashnode.dev/events-in-javascript)
+ - 🚀 [Deep Dive into Objects in JavaScript](https://saimounikaperi.hashnode.dev/deep-dive-into-objects-in-javascript)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
