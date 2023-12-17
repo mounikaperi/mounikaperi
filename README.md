@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounikaperi&label=Profile%20views&color=0e75b6&style=flat" alt="mounikaperi" /> </p>
 
-- 🌱 I’m currently learning **Full Stack JavaScript**
+- 🌱 I am a Full Stack Developer currently working at Cognizant and have expertise in building applications in both Full Stack(Java) and Mern Stack(JavaScript)
 
 - 📝 I regularly write articles on [https://saimounikaperi.hashnode.dev/](https://saimounikaperi.hashnode.dev/)
 
@@ -24,6 +24,11 @@
  - 💫 [Closures In JavaScript](https://saimounikaperi.hashnode.dev/closures-in-javascript)
  - 🚀 [Events in JavaScript](https://saimounikaperi.hashnode.dev/events-in-javascript)
  - 🚀 [Deep Dive into Objects in JavaScript](https://saimounikaperi.hashnode.dev/deep-dive-into-objects-in-javascript)<!-- BLOGPOSTS:END -->
+
+### Certificates
+* [AWS Certified Developer – Associate](https://www.credly.com/badges/db320ae8-cbf0-4047-a6cc-4bf142c905c2)
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/12d2b469-e020-4f70-b2b1-62c5c7d09476/)
+* [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/AZXZ8F6MGKZF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 <h3 align="left">Full Stack: Java and it's corresponding Frameworks: </h3>
 <div align="left">
