@@ -25,14 +25,14 @@
  - 🚀 [Events in JavaScript](https://saimounikaperi.hashnode.dev/events-in-javascript)
  - 🚀 [Deep Dive into Objects in JavaScript](https://saimounikaperi.hashnode.dev/deep-dive-into-objects-in-javascript)<!-- BLOGPOSTS:END -->
 
-<h3 align="left">Full Stack: Java and corresponding Frameworks: </h3>
+<h3 align="left">Full Stack: Java and it's corresponding Frameworks: </h3>
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 </div>
 
-<h3 align="left">Mern Stack: JavaScript and corresponding Frameworks and Libraries: </h3>
+<h3 align="left">Mern Stack: JavaScript and it's corresponding Frameworks, Libraries: </h3>
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
