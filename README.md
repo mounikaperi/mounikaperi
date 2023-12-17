@@ -40,6 +40,7 @@
 <h3 align="left">Java Frameworks: </h3>
 <div align="left">
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 </div>
 
 <h3 align="left">JavaScript Frameworks and Libraries: </h3>
@@ -47,12 +48,14 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> 
+  <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
 </div>
 
 <h3 align="left">CSS Frameworks: </h3>
 <div align="left">
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
 
 <h3 align="left">Databases :</h3>
@@ -65,6 +68,7 @@
 <h3 align="left">Testing :</h3>
 <div align="left">
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/>
 </div>
 
 <h3 align="left">Version Control :</h3>
