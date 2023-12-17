@@ -29,6 +29,8 @@
 * [AWS Certified Developer – Associate](https://www.credly.com/badges/db320ae8-cbf0-4047-a6cc-4bf142c905c2)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/12d2b469-e020-4f70-b2b1-62c5c7d09476/)
 * [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/verify/AZXZ8F6MGKZF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+* [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/C7V67NHT4VEF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+* [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/orLJnLgWTy6_KkLMoz1OZA?identity__email=saimounikajyothi@gmail.com)
 
 <h3 align="left">Full Stack: Java and it's corresponding Frameworks: </h3>
 <div align="left">
