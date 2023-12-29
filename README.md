@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Mounika Peri</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mounikaperi&label=Profile%20views&color=0e75b6&style=flat" alt="mounikaperi" /> </p>
-
 - 🌱 I am a Full Stack Developer currently working at Cognizant and have expertise in building applications in both Full Stack(Java) and Mern Stack(JavaScript)
 
 - 📝 I regularly write articles on [https://saimounikaperi.hashnode.dev/](https://saimounikaperi.hashnode.dev/)
